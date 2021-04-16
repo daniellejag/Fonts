@@ -1,0 +1,41 @@
+body {
+  font-family: sans-serif;
+  padding: 0 20px;
+}
+
+img {
+  max-width: 50%;
+  margin: 0 auto;
+  display: block;
+}
+
+h1,
+h2,
+h3 {
+  color: #231d3c;
+}
+
+h1 {
+  text-align: center;
+  margin: 0;
+  font-size: 36px;
+  line-height: 48px;
+  font-family: "Codystar", cursive;
+}
+
+.lyft {
+  font-size: 70px;
+  color: #b59c45;
+}
+
+.shuttle {
+  font-size: 200px;
+  transform: rotate(300deg);
+  color: #ff99d1;
+}
+
+.globe {
+  font-size: 500px;
+  margin: 5px 250px;
+  color: #e68f41;
+}
